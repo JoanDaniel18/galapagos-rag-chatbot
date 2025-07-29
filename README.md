@@ -19,7 +19,13 @@ This project demonstrates how to deploy an end-to-end **Retrieval-Augmented Gene
 
 ## 📚 Architecture
 
-![Architecture Diagram](architecture/architecture-diagram.png)
+
+![imagen_2 (1)](https://github.com/user-attachments/assets/9987d635-ca7e-43dc-81e1-1bda3785a4d3)
+![imagen_1 (1)](https://github.com/user-attachments/assets/c8448d41-6295-4dc1-9026-97facad0048f)
+![imagen_4 (1)](https://github.com/user-attachments/assets/59bc7430-f435-47be-a1f8-f07bc52fab1d)
+<img width="1357" height="525" alt="imagenes_3 (1)" src="https://github.com/user-attachments/assets/cb004ae3-982a-462e-9563-715725d10735" />
+
+
 
 ---
 
