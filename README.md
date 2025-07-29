@@ -39,13 +39,3 @@ This project demonstrates how to deploy an end-to-end **Retrieval-Augmented Gene
 - Supabase project + `pgvector` enabled
 - Dropbox API token
 
-### Setup
-
-```bash
-# Clone the repo
-git clone https://github.com/tuusuario/galapagos-rag-chatbot.git
-cd galapagos-rag-chatbot
-
-# Setup Docker (inside your EC2)
-cd docker
-docker-compose up -d
